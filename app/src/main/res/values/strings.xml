@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My project</string>
+    <string name="slogan_1">Make life easier</string>
+    <string name="slogan_2"> Let`s save your time and energy </string>
+    <string name="reg_string1">Log in</string>
+    <string name="signIn">Sign in</string>
+    <string name="reg_string2">Register</string>
+    <string name="reg_string3">Сontinue with google</string>
+    <string name="or">or</string>
+    <string name="password">Password</string>
+    <string name="repeat_password">Repeat password</string>
+    <string name="email_address">E-mail</string>
+    <string name="username">Username</string>
+
+
+    <string name="welcome"> Long time no see!</string>
+
+</resources>
